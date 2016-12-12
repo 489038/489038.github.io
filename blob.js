@@ -1,7 +1,4 @@
-// Daniel Shiffman
-// http://codingrainbow.com
-// http://patreon.com/codingrainbow
-// Code for: https://youtu.be/JXuxYMGe4KI
+// Corey Wellendorf
 
 function Blob(x, y, r) {
   this.pos = createVector(x, y);
