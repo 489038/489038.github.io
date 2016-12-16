@@ -7,7 +7,7 @@ var scl = 20;
 var food;
 
 function setup() {
-  createCanvas(1255, 850);
+  createCanvas(800, 800);
   s = new Snake();
   frameRate(10);
   pickLocation();
