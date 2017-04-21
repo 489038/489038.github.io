@@ -6,7 +6,7 @@ var blobs = [];
 var zoom = 1;
 
 function setup() {
-  createCanvas(600, 600);
+  createCanvas(700, 700);
   blob = new Blob(0, 0, 64);
   for (var i = 0; i < 200; i++) {
     var x = random(-width,width);
